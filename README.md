@@ -23,8 +23,6 @@ To get the most out of this curriculum, you should have:
 - Familiarity with REST and HTTP concepts
 - (Optional) Background in AI/ML concepts
 
-- Joining our community discussions for support
-
 ## 📚 Study Guide & Resources
 
 This repository includes several resources to help you navigate and learn effectively:
